@@ -1,4 +1,4 @@
-![Screenshot (104)](https://github.com/HIMA10SHREE/AWS_CI-CD/assets/52618743/ec5d364d-82ec-4df5-a250-aba7ec441558)# Deploy sample react application using AWS Code pipeline:
+# Deploy sample react application using AWS Code pipeline:
 
 1. Create IAM Role for EC2 & AWS Code Deploy: 
 
